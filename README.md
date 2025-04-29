@@ -119,10 +119,7 @@ python main.py -i path_to_image.png --noise_level 0.2
 
 📸 *Here’s a visual comparison of denoising performance on a real-world noisy image:*
 
-![Denoising Example](Ouput/Results_1.png)
-
-![Denoising Example](Ouput/Results_2.png)
-
+![Denoising Example](https://github.com/JasleenMinhas578/SelfSupervised-SingleNoisyImage-Denoising-SMU/blob/main/Output/Results_1.png)
 
 ---
 
