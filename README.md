@@ -117,14 +117,12 @@ python main.py -i path_to_image.png --noise_level 0.2
 
 ### 🖼️ Example Results
 
-📸 *Add your result image below by uploading to this repo (drag-and-drop into GitHub or use markdown image syntax).*
+📸 *Here’s a visual comparison of denoising performance on a real-world noisy image:*
 
-```md
 ![Denoising Example](Ouput/Results_1.png)
 
 ![Denoising Example](Ouput/Results_2.png)
 
-```
 
 ---
 
